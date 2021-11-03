@@ -1,9 +1,4 @@
-const div = document.getElementById('gitHub')
 
 
-const logged = () => {
-    console.log(div.textContent);
-}
-
-
-console.log("Privat vasuli");
+const a = 1
+const b = "naha vetka lesson01"
